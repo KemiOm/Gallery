@@ -1,0 +1,30 @@
+body{
+  background-color: #52796F;
+  color: #CAD2C5;
+  font-family: 'Courier Prime', monospace;
+  
+
+}
+
+.header{
+  background-color: #2F3E46;
+}
+img{
+  height: 200 px;
+  width: 250px;
+  padding: 10px;
+}
+
+img:hover {
+  background-color: #ddd;
+  color: black;
+  animation: pulse 1.5s; /* Animate for 1.5 seconds on hover */
+}
+
+.container {
+    display: grid;
+    gap: 1rem;
+}
+
+
+
