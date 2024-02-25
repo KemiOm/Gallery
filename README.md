@@ -15,6 +15,8 @@ This project is a simple yet elegant photo gallery showcasing a collection of im
 2. Open the `index.html` file in your preferred web browser.
 3. Browse through the images using the navigation buttons or arrow keys.
 4. Enjoy the visual experience of the photo gallery!
+   Click on this link for the webview 
+6. https://b84abe52-b5ca-4536-b972-d157fd4566b3-00-11a09ljp5dytz.picard.repl.co/
 
 **Credits:**
 This project was created by Kemi Omoniyi. Feel free to contribute to the project by submitting pull requests or reporting issues on GitHub.
